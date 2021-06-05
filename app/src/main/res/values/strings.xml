@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flickr Image Search</string>
+    <string name="search">Search</string>
+    <string name="keyword">Enter keyword</string>
+    <string name="enter_keyword">Enter Search Keyword</string>
+    <string name="no_image">No Image Found</string>
+</resources>
