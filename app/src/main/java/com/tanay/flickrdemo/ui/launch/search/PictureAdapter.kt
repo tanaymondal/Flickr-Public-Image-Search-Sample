@@ -2,6 +2,7 @@ package com.tanay.flickrdemo.ui.launch.search
 
 import android.annotation.SuppressLint
 import android.content.res.Resources
+import android.os.Looper
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup

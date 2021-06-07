@@ -7,5 +7,5 @@ import dagger.android.ContributesAndroidInjector
 abstract class SearchFragmentProvider {
 
     @ContributesAndroidInjector
-    abstract fun provideLoginFragmentFactory(): SearchFragment
+    abstract fun provideSearchFragmentFactory(): SearchFragment
 }
